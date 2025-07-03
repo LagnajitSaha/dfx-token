@@ -1,4 +1,3 @@
-
 # To Deploy
 
 1. Find out your principal id:
